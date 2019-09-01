@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj": {}
+    "D:\\Workspace\\Desafio\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj": {
+    "D:\\Workspace\\Desafio\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj",
+        "projectUniqueName": "D:\\Workspace\\Desafio\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj",
         "projectName": "Desafio.CrossCutting",
-        "projectPath": "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj",
+        "projectPath": "D:\\Workspace\\Desafio\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting\\obj\\",
+        "outputPath": "D:\\Workspace\\Desafio\\Desafio.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

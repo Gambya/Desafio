@@ -13123,11 +13123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\DesafioPitang\\Desafio.Api\\Desafio.Api.csproj",
+      "projectUniqueName": "D:\\Workspace\\Desafio\\Desafio.Api\\Desafio.Api.csproj",
       "projectName": "Desafio.Api",
-      "projectPath": "D:\\Workspace\\DesafioPitang\\Desafio.Api\\Desafio.Api.csproj",
+      "projectPath": "D:\\Workspace\\Desafio\\Desafio.Api\\Desafio.Api.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\DesafioPitang\\Desafio.Api\\obj\\",
+      "outputPath": "D:\\Workspace\\Desafio\\Desafio.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -13148,11 +13148,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting.IoC\\Desafio.CrossCutting.IoC.csproj": {
-              "projectPath": "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting.IoC\\Desafio.CrossCutting.IoC.csproj"
+            "D:\\Workspace\\Desafio\\Desafio.CrossCutting.IoC\\Desafio.CrossCutting.IoC.csproj": {
+              "projectPath": "D:\\Workspace\\Desafio\\Desafio.CrossCutting.IoC\\Desafio.CrossCutting.IoC.csproj"
             },
-            "D:\\Workspace\\DesafioPitang\\Desafio.Repositories\\Desafio.Repositories.csproj": {
-              "projectPath": "D:\\Workspace\\DesafioPitang\\Desafio.Repositories\\Desafio.Repositories.csproj"
+            "D:\\Workspace\\Desafio\\Desafio.Repositories\\Desafio.Repositories.csproj": {
+              "projectPath": "D:\\Workspace\\Desafio\\Desafio.Repositories\\Desafio.Repositories.csproj"
             }
           }
         }

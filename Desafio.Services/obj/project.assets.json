@@ -7714,11 +7714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\DesafioPitang\\Desafio.Services\\Desafio.Services.csproj",
+      "projectUniqueName": "D:\\Workspace\\Desafio\\Desafio.Services\\Desafio.Services.csproj",
       "projectName": "Desafio.Services",
-      "projectPath": "D:\\Workspace\\DesafioPitang\\Desafio.Services\\Desafio.Services.csproj",
+      "projectPath": "D:\\Workspace\\Desafio\\Desafio.Services\\Desafio.Services.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\DesafioPitang\\Desafio.Services\\obj\\",
+      "outputPath": "D:\\Workspace\\Desafio\\Desafio.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -7739,8 +7739,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Workspace\\DesafioPitang\\Desafio.Domain\\Desafio.Domain.csproj": {
-              "projectPath": "D:\\Workspace\\DesafioPitang\\Desafio.Domain\\Desafio.Domain.csproj"
+            "D:\\Workspace\\Desafio\\Desafio.Domain\\Desafio.Domain.csproj": {
+              "projectPath": "D:\\Workspace\\Desafio\\Desafio.Domain\\Desafio.Domain.csproj"
             }
           }
         }

@@ -8060,11 +8060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting.IoC\\Desafio.CrossCutting.IoC.csproj",
+      "projectUniqueName": "D:\\Workspace\\Desafio\\Desafio.CrossCutting.IoC\\Desafio.CrossCutting.IoC.csproj",
       "projectName": "Desafio.CrossCutting.IoC",
-      "projectPath": "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting.IoC\\Desafio.CrossCutting.IoC.csproj",
+      "projectPath": "D:\\Workspace\\Desafio\\Desafio.CrossCutting.IoC\\Desafio.CrossCutting.IoC.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting.IoC\\obj\\",
+      "outputPath": "D:\\Workspace\\Desafio\\Desafio.CrossCutting.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8085,14 +8085,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj": {
-              "projectPath": "D:\\Workspace\\DesafioPitang\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj"
+            "D:\\Workspace\\Desafio\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj": {
+              "projectPath": "D:\\Workspace\\Desafio\\Desafio.CrossCutting\\Desafio.CrossCutting.csproj"
             },
-            "D:\\Workspace\\DesafioPitang\\Desafio.Repositories\\Desafio.Repositories.csproj": {
-              "projectPath": "D:\\Workspace\\DesafioPitang\\Desafio.Repositories\\Desafio.Repositories.csproj"
+            "D:\\Workspace\\Desafio\\Desafio.Repositories\\Desafio.Repositories.csproj": {
+              "projectPath": "D:\\Workspace\\Desafio\\Desafio.Repositories\\Desafio.Repositories.csproj"
             },
-            "D:\\Workspace\\DesafioPitang\\Desafio.Services\\Desafio.Services.csproj": {
-              "projectPath": "D:\\Workspace\\DesafioPitang\\Desafio.Services\\Desafio.Services.csproj"
+            "D:\\Workspace\\Desafio\\Desafio.Services\\Desafio.Services.csproj": {
+              "projectPath": "D:\\Workspace\\Desafio\\Desafio.Services\\Desafio.Services.csproj"
             }
           }
         }
