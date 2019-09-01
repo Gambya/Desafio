@@ -1,0 +1,13 @@
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\obj\Debug\netcoreapp2.2\Desafio.CrossCutting.csprojAssemblyReference.cache
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\obj\Debug\netcoreapp2.2\Desafio.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\obj\Debug\netcoreapp2.2\Desafio.CrossCutting.AssemblyInfoInputs.cache
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\obj\Debug\netcoreapp2.2\Desafio.CrossCutting.AssemblyInfo.cs
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\bin\Debug\netcoreapp2.2\Desafio.CrossCutting.deps.json
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\bin\Debug\netcoreapp2.2\Desafio.CrossCutting.dll
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\bin\Debug\netcoreapp2.2\Desafio.CrossCutting.pdb
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\obj\Debug\netcoreapp2.2\Desafio.CrossCutting.csproj.CopyComplete
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\obj\Debug\netcoreapp2.2\Desafio.CrossCutting.dll
+D:\Workspace\DesafioPitang\Desafio.CrossCutting\obj\Debug\netcoreapp2.2\Desafio.CrossCutting.pdb
